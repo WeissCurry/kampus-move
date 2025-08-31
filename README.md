@@ -69,4 +69,4 @@ Mengambil beberapa informasi kunci dari objek mahasiswa.
 ## Contoh Transaksi
 
 Anda dapat melihat contoh transaksi yang melibatkan objek `Mahasiswa` di SUI Testnet melalui tautan berikut:
-[Lihat Objek Mahasiswa di SUI Testnet](https://suiscan.xyz/testnet/object/0x1355a4f1264c195e5d84c0bc77d0bf4038bb39a8b475b77137b5d4fa2818bf27/tx-blocks)
+[Lihat Objek Mahasiswa di SUI Testnet](https://suiscan.xyz/testnet/object/0x4955a07ecdeba67d090bb42390bca44ef684ba60459dd493e469b1f0c0f01c8b/tx-blocks)
